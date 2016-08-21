@@ -1,2 +1,2 @@
 # shoppingCart
-购物车弹窗 
+用第三方KNSemiModalViewController写的淘宝选择尺寸动画Demo（折叠）
